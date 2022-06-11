@@ -12,7 +12,7 @@
     <div class="avatr"><img csr></div>
 <span class="bold_text">Phone number:</span>
 <p class="cursiv">
-    <span class="bold_text">Phone number:</span>
+    <span class="bold_text">
     <a title="Phone number" href="tel:+375298281366">+ 375 29 828 13 66</a>
     | <span class="bold_text">Email:</span>
     <a title="почта" href="tetuhk01@gmail.com">
