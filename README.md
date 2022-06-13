@@ -9,8 +9,7 @@
 </head>
 <body>
     <h1 class="head">Dzmitriy Kulik</h1>
-    <div class="avatr"><img csr></div>
-<span class="bold_text">Phone number:</span>
+    <div class="avatr"><img src="./photo1624181381.jpg" alt="my photo"></div>
 <p class="cursiv">
     <a title="Phone number" href="tel:+375298281366">+ 375 29 828 13 66</a>
     | <span class="bold_text">Email:</span>
